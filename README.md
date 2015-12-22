@@ -8,7 +8,8 @@ This my poor attempt to prove there is an issue with reflection on Mono.
 
 ## Results
 
-    Windows 8 / .Net 4.5.1 = 47 ms
+    Windows 8 /   .Net 4.5.1 = 47 ms
     OSX 10.10.5 / Mono 4.2 = 101 ms
     OSX 10.10.5 / Mono 3.12.1 = 108 ms
     OSX 10.10.5 / 1.0.0-rc2-16343 coreclr x64 = 93ms
+    Windows 10 /  1.0.0-rc2-16343 coreclr x64 = 76 ms
